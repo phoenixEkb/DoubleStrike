@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 390642c718cd0a847a442e3863c62dd6
+timeCreated: 1450070360
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marksman-shoot_0
+    21300002: marksman-shoot_1
+    21300004: marksman-shoot_1
+    21300006: marksman-shoot_3
+    21300008: marksman-shoot_4
+    21300010: marksman-shoot_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: marksman-shoot_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 350
+        height: 575
+      alignment: 9
+      pivot: {x: 0.8146895, y: 0.4927718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.85867, y: 291.65622}
+        - {x: 37.858673, y: 291.65622}
+        - {x: 37.858673, y: 268.65622}
+        - {x: -31.141327, y: 291.65622}
+        - {x: -62.141327, y: 291.65622}
+        - {x: -62.141327, y: 166.65622}
+        - {x: -60.141327, y: 164.65622}
+        - {x: -39.141327, y: 115.65622}
+        - {x: -83.14133, y: 120.65622}
+        - {x: -133.14133, y: 173.65622}
+        - {x: -187.14133, y: 170.65622}
+        - {x: -189.14133, y: 145.65622}
+        - {x: -285.14133, y: 143.65622}
+        - {x: -285.14133, y: 114.65622}
+        - {x: -185.14133, y: 39.65622}
+        - {x: -160.14133, y: 39.65622}
+        - {x: -158.14133, y: 41.65622}
+        - {x: -158.14133, y: 64.65622}
+        - {x: -39.141327, y: 61.65622}
+        - {x: -64.14133, y: -283.34378}
+        - {x: 41.858673, y: -283.34378}
+        - {x: 41.858673, y: 91.65622}
+        - {x: 39.858673, y: 93.65622}
+        - {x: 64.85867, y: 154.65622}
+    - name: marksman-shoot_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2
+        width: 430
+        height: 580
+      alignment: 9
+      pivot: {x: 0.8479674, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.62598, y: 284.99997}
+        - {x: -62.625977, y: 157.99997}
+        - {x: -60.625977, y: 155.99997}
+        - {x: -132.62598, y: 162.99997}
+        - {x: -187.62598, y: 161.99997}
+        - {x: -320.62598, y: 155.99997}
+        - {x: -320.62598, y: 97.99997}
+        - {x: -317.62598, y: 88.99997}
+        - {x: -290.62598, y: 89.99997}
+        - {x: -288.62598, y: 91.99997}
+        - {x: -185.62598, y: 30.99997}
+        - {x: -159.62598, y: 30.99997}
+        - {x: -157.62598, y: 32.99997}
+        - {x: -65.62598, y: -290.00003}
+        - {x: 45.374023, y: -290.00003}
+        - {x: 65.37402, y: 43.99997}
+        - {x: 65.37402, y: 284.99997}
+      - - {x: -310.62598, y: 284.99997}
+        - {x: -358.62598, y: 284.99997}
+        - {x: -360.62598, y: 282.99997}
+        - {x: -360.62598, y: 204.99997}
+        - {x: -337.62598, y: 204.99997}
+        - {x: -311.62598, y: 232.99997}
+        - {x: -310.62598, y: 233.99997}
+      - - {x: -300.62598, y: 284.99997}
+        - {x: -300.62598, y: 204.99997}
+        - {x: -250.62598, y: 204.99997}
+        - {x: -250.62598, y: 284.99997}
+      - - {x: -241.62598, y: 285.99997}
+        - {x: -241.62598, y: 222.99997}
+        - {x: -236.62598, y: 204.99997}
+        - {x: -170.62598, y: 204.99997}
+        - {x: -161.62598, y: 214.99997}
+        - {x: -161.62598, y: 285.99997}
+      - - {x: -148.62598, y: 224.99997}
+        - {x: -150.62598, y: 222.99997}
+        - {x: -150.62598, y: 206.99997}
+        - {x: -148.62598, y: 204.99997}
+        - {x: -133.62598, y: 204.99997}
+        - {x: -131.62598, y: 206.99997}
+        - {x: -131.62598, y: 222.99997}
+        - {x: -133.62598, y: 224.99997}
+      - - {x: -150.62598, y: 285.99997}
+        - {x: -150.62598, y: 235.99997}
+        - {x: -131.62598, y: 235.99997}
+        - {x: -131.62598, y: 285.99997}
+    - name: marksman-shoot_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 350
+        height: 575
+      alignment: 9
+      pivot: {x: 0.8206271, y: 0.50361425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.780518, y: 285.4218}
+        - {x: 35.780518, y: 285.4218}
+        - {x: 35.780518, y: 262.4218}
+        - {x: -33.219482, y: 285.4218}
+        - {x: -64.21948, y: 285.4218}
+        - {x: -64.21948, y: 160.42181}
+        - {x: -62.219482, y: 158.42181}
+        - {x: -41.219482, y: 109.421814}
+        - {x: -85.21948, y: 114.421814}
+        - {x: -135.21948, y: 167.42181}
+        - {x: -189.21948, y: 164.42181}
+        - {x: -191.21948, y: 139.42181}
+        - {x: -287.21948, y: 137.42181}
+        - {x: -287.21948, y: 108.421814}
+        - {x: -187.21948, y: 33.421814}
+        - {x: -162.21948, y: 33.421814}
+        - {x: -160.21948, y: 35.421814}
+        - {x: -160.21948, y: 58.421814}
+        - {x: -41.219482, y: 55.421814}
+        - {x: -66.21948, y: -289.5782}
+        - {x: 39.780518, y: -289.5782}
+        - {x: 39.780518, y: 85.421814}
+        - {x: 37.780518, y: 87.421814}
+        - {x: 62.780518, y: 148.42181}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

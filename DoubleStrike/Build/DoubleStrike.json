@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Double Strike",
+"dataUrl": "DoubleStrike.data.unityweb",
+"asmCodeUrl": "DoubleStrike.asm.code.unityweb",
+"asmMemoryUrl": "DoubleStrike.asm.memory.unityweb",
+"asmFrameworkUrl": "DoubleStrike.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

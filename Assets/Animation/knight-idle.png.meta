@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 5b9b0687dc7b65e48aa7a3b4e14c7bcd
+timeCreated: 1450070703
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight-idle_0
+    21300002: knight-idle_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 251
+        height: 575
+      alignment: 9
+      pivot: {x: 0.74219865, y: 0.50310963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.708145, y: -289.28802}
+        - {x: 52.708145, y: -217.28802}
+        - {x: 64.708145, y: -7.288025}
+        - {x: 64.708145, y: 283.71198}
+        - {x: 40.708145, y: 283.71198}
+        - {x: 38.708145, y: 281.71198}
+        - {x: 22.708145, y: 283.71198}
+        - {x: -63.291855, y: 283.71198}
+        - {x: -61.291855, y: 156.71198}
+        - {x: -59.291855, y: 154.71198}
+        - {x: -86.291855, y: 36.711975}
+        - {x: -107.291855, y: 162.71198}
+        - {x: -139.29185, y: 163.71198}
+        - {x: -162.29185, y: -1.2880249}
+        - {x: -162.29185, y: -58.288025}
+        - {x: -137.29185, y: -98.288025}
+        - {x: -104.291855, y: -95.288025}
+        - {x: -57.291855, y: -73.288025}
+        - {x: -61.291855, y: -268.28802}
+        - {x: -61.291855, y: -289.28802}
+        - {x: -7.291855, y: -289.28802}
+        - {x: -7.291855, y: -145.28802}
+        - {x: -6.291855, y: -268.28802}
+        - {x: -6.291855, y: -289.28802}
+    - name: knight-idle_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 251
+        height: 575
+      alignment: 9
+      pivot: {x: 0.7493218, y: 0.50310963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.920227, y: -289.28802}
+        - {x: 42.920227, y: 6.711975}
+        - {x: 62.920227, y: 8.711975}
+        - {x: 62.920227, y: 285.71198}
+        - {x: -63.079773, y: 285.71198}
+        - {x: -63.079773, y: 160.71198}
+        - {x: -61.079773, y: 158.71198}
+        - {x: -40.079773, y: 109.711975}
+        - {x: -88.07977, y: 40.711975}
+        - {x: -109.07977, y: 166.71198}
+        - {x: -141.07977, y: 167.71198}
+        - {x: -164.07977, y: 2.711975}
+        - {x: -164.07977, y: -54.288025}
+        - {x: -139.07977, y: -94.288025}
+        - {x: -106.07977, y: -91.288025}
+        - {x: -59.079773, y: -69.288025}
+        - {x: -38.079773, y: 4.711975}
+        - {x: -63.079773, y: -264.28802}
+        - {x: -63.079773, y: -289.28802}
+        - {x: -9.079773, y: -289.28802}
+        - {x: -9.079773, y: -141.28802}
+        - {x: -8.079773, y: -264.28802}
+        - {x: -8.079773, y: -289.28802}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

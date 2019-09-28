@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 007939e9861581e4892b9b6fac6d733f
+timeCreated: 1448694671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nogzor-walk_0
+    21300002: nogzor-walk_1
+    21300004: nogzor-walk_2
+    21300006: nogzor-walk_3
+    21300008: nogzor-walk_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nogzor-walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 677
+        height: 1450
+      alignment: 9
+      pivot: {x: .341607153, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nogzor-walk_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 704
+        height: 1450
+      alignment: 9
+      pivot: {x: .339219868, y: .504108489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nogzor-walk_2
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 0
+        width: 655
+        height: 1450
+      alignment: 9
+      pivot: {x: .318096608, y: .491782993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nogzor-walk_3
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 0
+        width: 678
+        height: 1450
+      alignment: 9
+      pivot: {x: .341840804, y: .504108489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nogzor-walk_4
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 0
+        width: 677
+        height: 1450
+      alignment: 9
+      pivot: {x: .359206229, y: .504108489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

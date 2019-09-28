@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: c2749b5d6748fd643918ba86beaeb3dc
+timeCreated: 1450070691
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marksman-walk_0
+    21300002: marksman-walk_1
+    21300004: marksman-walk_2
+    21300006: marksman-walk_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: marksman-walk_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 350
+        height: 575
+      alignment: 9
+      pivot: {x: 0.8166686, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.834015, y: -261.4999}
+        - {x: -7.834015, y: -287.4999}
+        - {x: 47.165985, y: -287.4999}
+        - {x: 47.165985, y: -211.49991}
+        - {x: 43.165985, y: 88.50009}
+        - {x: 64.165985, y: 142.50009}
+        - {x: 64.165985, y: 287.5001}
+        - {x: -62.834015, y: 287.5001}
+        - {x: -62.834015, y: 162.50009}
+        - {x: -60.834015, y: 160.50009}
+        - {x: -133.83401, y: 169.50009}
+        - {x: -187.83401, y: 166.50009}
+        - {x: -285.834, y: 139.50009}
+        - {x: -285.834, y: 89.50009}
+        - {x: -152.83401, y: 17.500092}
+        - {x: -37.834015, y: 60.50009}
+        - {x: -62.834015, y: -261.4999}
+        - {x: -62.834015, y: -287.4999}
+        - {x: -8.834015, y: -287.4999}
+        - {x: -8.834015, y: -131.49991}
+        - {x: 12.165985, y: -162.49991}
+        - {x: 14.165985, y: -213.49991}
+    - name: marksman-walk_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 403
+        height: 576
+      alignment: 9
+      pivot: {x: 0.70940906, y: 0.5096209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.108154, y: -192.54163}
+        - {x: 41.108154, y: -166.54163}
+        - {x: 43.108154, y: 83.458374}
+        - {x: 73.108154, y: 154.45837}
+        - {x: 67.108154, y: 282.45837}
+        - {x: -62.891846, y: 282.45837}
+        - {x: -62.891846, y: 156.45837}
+        - {x: -60.891846, y: 154.45837}
+        - {x: -39.891846, y: 105.458374}
+        - {x: -79.891846, y: 119.458374}
+        - {x: -129.89185, y: 171.45837}
+        - {x: -189.89185, y: 158.45837}
+        - {x: -285.89185, y: 134.45837}
+        - {x: -285.89185, y: 82.458374}
+        - {x: -151.89185, y: 11.458374}
+        - {x: -157.89185, y: 31.458374}
+        - {x: -40.891846, y: 51.458374}
+        - {x: -65.891846, y: -293.54163}
+        - {x: -8.891846, y: -293.54163}
+        - {x: -8.891846, y: -140.54163}
+        - {x: 12.108154, y: -230.54163}
+        - {x: 117.108154, y: -251.54163}
+    - name: marksman-walk_2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 353
+        height: 575
+      alignment: 9
+      pivot: {x: 0.8101049, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.03296, y: 88.50003}
+        - {x: 67.03296, y: 146.50003}
+        - {x: 67.03296, y: 287.50003}
+        - {x: -62.96704, y: 287.50003}
+        - {x: -62.96704, y: 162.50003}
+        - {x: -60.96704, y: 160.50003}
+        - {x: -39.96704, y: 111.50003}
+        - {x: -82.96704, y: 116.50003}
+        - {x: -132.96704, y: 169.50003}
+        - {x: -187.96704, y: 166.50003}
+        - {x: -285.96704, y: 139.50003}
+        - {x: -285.96704, y: 110.50003}
+        - {x: -185.96704, y: 35.50003}
+        - {x: -159.96704, y: 35.50003}
+        - {x: -157.96704, y: 37.50003}
+        - {x: -39.96704, y: 58.50003}
+        - {x: -37.96704, y: -215.49997}
+        - {x: -12.967041, y: -287.49997}
+        - {x: 42.03296, y: -287.49997}
+        - {x: 67.03296, y: -241.49997}
+        - {x: 67.03296, y: -185.49997}
+        - {x: 42.03296, y: -185.49997}
+    - name: marksman-walk_3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 0
+        width: 350
+        height: 574
+      alignment: 9
+      pivot: {x: 0.82542026, y: 0.4903454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.897095, y: -257.45825}
+        - {x: -10.897095, y: -281.45825}
+        - {x: 45.102905, y: -281.45825}
+        - {x: 44.102905, y: -150.45825}
+        - {x: 38.102905, y: 97.54175}
+        - {x: 61.102905, y: 155.54175}
+        - {x: 61.102905, y: 292.54175}
+        - {x: -65.897095, y: 292.54175}
+        - {x: -65.897095, y: 167.54175}
+        - {x: -63.897095, y: 165.54175}
+        - {x: -136.8971, y: 174.54175}
+        - {x: -190.8971, y: 171.54175}
+        - {x: -288.8971, y: 144.54175}
+        - {x: -288.8971, y: 94.54175}
+        - {x: -155.8971, y: 22.541748}
+        - {x: -40.897095, y: 65.54175}
+        - {x: -65.897095, y: -257.45825}
+        - {x: -65.897095, y: -281.45825}
+        - {x: -11.897095, y: -281.45825}
+        - {x: -11.897095, y: -126.45825}
+        - {x: 9.102905, y: -157.45825}
+        - {x: 11.102905, y: -208.45825}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
