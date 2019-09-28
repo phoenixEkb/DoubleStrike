@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 60a0c76d227ba4740befa97e0e5b4a10
+timeCreated: 1450070671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marksman-idle_0
+    21300002: marksman-idle_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: marksman-idle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 350
+        height: 575
+      alignment: 9
+      pivot: {x: 0.83205616, y: 0.50932884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.780334, y: 282.13593}
+        - {x: 31.780334, y: 282.13593}
+        - {x: 31.780334, y: 259.13593}
+        - {x: -37.219666, y: 282.13593}
+        - {x: -68.219666, y: 282.13593}
+        - {x: -68.219666, y: 157.13593}
+        - {x: -66.219666, y: 155.13593}
+        - {x: -45.219666, y: 106.135925}
+        - {x: -89.219666, y: 111.135925}
+        - {x: -139.21967, y: 164.13593}
+        - {x: -193.21967, y: 161.13593}
+        - {x: -195.21967, y: 136.13593}
+        - {x: -291.21967, y: 134.13593}
+        - {x: -291.21967, y: 105.135925}
+        - {x: -191.21967, y: 30.135925}
+        - {x: -166.21967, y: 30.135925}
+        - {x: -164.21967, y: 32.135925}
+        - {x: -164.21967, y: 55.135925}
+        - {x: -45.219666, y: 52.135925}
+        - {x: -70.219666, y: -292.86407}
+        - {x: 35.780334, y: -292.86407}
+        - {x: 35.780334, y: 82.135925}
+        - {x: 33.780334, y: 84.135925}
+        - {x: 58.780334, y: 145.13593}
+    - name: marksman-idle_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 350
+        height: 575
+      alignment: 9
+      pivot: {x: 0.80651367, y: 0.50932884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.720215, y: 282.13593}
+        - {x: 38.720215, y: 282.13593}
+        - {x: 38.720215, y: 259.13593}
+        - {x: -30.279785, y: 282.13593}
+        - {x: -61.279785, y: 282.13593}
+        - {x: -61.279785, y: 157.13593}
+        - {x: -59.279785, y: 155.13593}
+        - {x: -38.279785, y: 106.135925}
+        - {x: -82.279785, y: 111.135925}
+        - {x: -132.27979, y: 164.13593}
+        - {x: -186.27979, y: 161.13593}
+        - {x: -188.27979, y: 136.13593}
+        - {x: -282.2798, y: 134.13593}
+        - {x: -282.2798, y: 105.135925}
+        - {x: -184.27979, y: 30.135925}
+        - {x: -159.27979, y: 30.135925}
+        - {x: -157.27979, y: 32.135925}
+        - {x: -157.27979, y: 55.135925}
+        - {x: -38.279785, y: 52.135925}
+        - {x: -63.279785, y: -292.86407}
+        - {x: 42.720215, y: -292.86407}
+        - {x: 42.720215, y: 82.135925}
+        - {x: 40.720215, y: 84.135925}
+        - {x: 67.720215, y: 148.13593}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

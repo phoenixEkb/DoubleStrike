@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="beat-it.svg"
+   inkscape:export-filename="H:\AdventureTime\ProgrammingTime\team-project\Assets\Textures\arts\Enviroment\level2_training_room\beat-it.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28266602"
+     inkscape:cx="787.42953"
+     inkscape:cy="479.48519"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1002"
+     inkscape:window-x="57"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="25px"
+       spacingy="25px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <path
+       id="rect3003-2-1"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       d="m 575,1027.3622 25,0 0,25 -25,0 z m 0,-25 25,0 0,25 -25,0 z m -100,25 25,0 0,25 -25,0 z m -100,-25 225,0 0,50 -225,0 z m 50,-50.00002 125,0 0,100.00002 -125,0 z m -50,50.00002 25,0 0,25 -25,0 z m 175,-25.00002 25,0 0,25.00002 -25,0 z m -50,0 25,0 0,25.00002 -25,0 z m -50,0 25,0 0,25.00002 -25,0 z m -50,0 25,0 0,25.00002 -25,0 z m 100,-25 75,0 0,25 -75,0 z m -100,0 75,0 0,25 -75,0 z m 25,-25 125,0 0,25 -125,0 z m 50,-525 25,0 0,525 -25,0 z m -300,-25 325,0 0,25 -325,0 z" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3120"
+       width="25"
+       height="25"
+       x="200"
+       y="0"
+       transform="translate(0,352.36218)" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3122"
+       width="25"
+       height="25"
+       x="250"
+       y="0"
+       transform="translate(0,352.36218)" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3124"
+       width="25"
+       height="200"
+       x="225"
+       y="25"
+       transform="translate(0,352.36218)" />
+    <path
+       id="rect3130"
+       transform="translate(0,352.36218)"
+       style="fill:#550000;fill-opacity:1;stroke:none"
+       d="m 300,250 25,0 0,350 -25,0 z m -150,0 25,0 0,350 -25,0 z m 25,-25 125,0 0,400 -125,0 z" />
+    <rect
+       style="fill:#aa0000;fill-opacity:1;stroke:none"
+       id="rect3136"
+       width="125"
+       height="350"
+       x="175"
+       y="250"
+       transform="translate(0,352.36218)" />
+    <rect
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       id="rect3138"
+       width="75"
+       height="350"
+       x="200"
+       y="250"
+       transform="translate(0,352.36218)" />
+  </g>
+</svg>
