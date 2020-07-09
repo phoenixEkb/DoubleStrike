@@ -6,8 +6,7 @@ Under your leadership they will definitely win!
 
 Language: JavaScript (UnityScript)  
 Unity version: 2017.1.5f1  
-*TODO: add working build*
-How to play: [Download](https://github.com/MarinaRock/UnityGroupGameProject/releases/tag/1.0.0) and run in the browser (try Microsoft Edge first)
+How to play: [Download](https://github.com/phoenixEkb/UnityGroupGameProject/releases/tag/1.0.0) and run in the browser (try Microsoft Edge first)
 
 Controls:  
 W, A, D - control keys       
