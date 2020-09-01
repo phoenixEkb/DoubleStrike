@@ -23,9 +23,9 @@ H - throw lamp
 ![Boss lair](./Images/5.png)
 
 Developed by The Cake Is Undefined team, Ural Federal University, IRIT-RTF, RI-330901   
-![Lanitina Marina](https://github.com/MarinaRock) -  Game logic, AI and physics developement
+![Lanitina Marina](https://github.com/MarinaRock) -  Game logic, AI and physics developement  
 ![Ivanaev Stanislav](https://github.com/PhonkX) - Game logic, AI and physics developement  
-![Kharisov Valery](https://github.com/loversandcode) - Art, animation, design document
+![Kharisov Valery](https://github.com/loversandcode) - Art, animation, design document  
 Ostrovsky Sergey - Level logic development, deployment, design document, music and sounds   
 
 Finished in 2015 in Mercurial, moved to GitHub due to end of support of Mercurial by Atlassian  
