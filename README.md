@@ -6,7 +6,7 @@ Under your leadership they will definitely win!
 
 Language: JavaScript (UnityScript)  
 Unity version: 2017.1.5f1  
-How to play: [Download](https://github.com/phoenixEkb/UnityGroupGameProject/releases/tag/1.0.0) and run */DoubleStrike/index.hhtml* in the browser (requires enabled WebGL).
+How to play: [Download](https://github.com/phoenixEkb/UnityGroupGameProject/releases/tag/1.0.0) and run */DoubleStrike/index.html* in the browser (requires enabled WebGL).
 
 Controls:  
 W, A, D - control keys       
